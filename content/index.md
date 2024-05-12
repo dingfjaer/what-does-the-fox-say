@@ -1,7 +1,6 @@
 ---
 title: What does the fox say
 ---
+Så denne er egentlig en introside. 
 
-Litt usikker hva gjør en index. (Dette er index2)
-
-Trenger man to indexer altså?
+Jeg kommer til å fylle mer innhold i denne siden. 
