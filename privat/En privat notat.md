@@ -1,6 +1,6 @@
 ---
 title: En privat notat
-draft: false
+draft: true
 tags:
   - Tanker
 ---
