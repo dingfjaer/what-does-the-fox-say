@@ -4,10 +4,6 @@ draft: false
 tags:
   - Obsidian
 ---
- 
-The rest of your content lives here. You can use **Markdown** here :)
-
-
 
 Dette er en notat skrevet på mobil
 

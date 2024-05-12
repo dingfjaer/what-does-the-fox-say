@@ -1,5 +1,5 @@
 ---
-title: Så denne blir tittel som overskriver?
+title: For en reise - det å sette opp Quartz med Obsidian!
 draft: false
 tags:
   - Obsidian
