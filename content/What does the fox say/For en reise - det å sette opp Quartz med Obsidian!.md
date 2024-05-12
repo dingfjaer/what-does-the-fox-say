@@ -1,8 +1,8 @@
 ---
-title: For en reise - det å sette opp Quartz med Obsidian!
+title: Så denne blir tittel som overskriver?
 draft: false
 tags:
-  - example-tag
+  - Obsidian
 ---
 
  Jeg tester å skrive fra Obsidian mobilappen.
