@@ -55,7 +55,7 @@ export const TRANSLATIONS = {
   "vi-VN": vi,
   "pt-BR": pt,
   "hu-HU": hu,
-  "nb-NO": no,
+  "nb-NO": nb,
 } as const
 
 export const defaultTranslation = "en-US"
