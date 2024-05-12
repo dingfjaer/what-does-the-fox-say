@@ -1,6 +1,6 @@
 ---
 title: Å reise stressfritt
-draft: false
+draft: true
 tags:
   - the-bad-design-of-everyday-things
 ---

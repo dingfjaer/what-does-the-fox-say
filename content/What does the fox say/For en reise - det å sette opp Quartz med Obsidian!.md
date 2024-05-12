@@ -1,10 +1,18 @@
 ---
 title: For en reise - det å sette opp Quartz med Obsidian!
-draft: false
+draft: true
 tags:
   - Obsidian
 ---
 
- Jeg tester å skrive fra Obsidian mobilappen.
- Det blir spennende å se om teksten synkes på desktop raskt, eller om det synkes i det hele tatt. 
- 
+# Hvorfor
+
+Har tusen tanker, men ikke anledning å dele, eller ingen å diskutere med.
+Å ha et sted å parkere ideer og tanker. Et sted å finne ro, å rømme fra xxx
+Å bli bedre på å skrive norsk, og bedre på norsk generelt.
+En showcase av min faglig interesse; å vise frem hvem jeg er. Ikke bare for å finne (ny) jobb, men for å dokumentere min egen læring.
+
+
+
+
+
