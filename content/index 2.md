@@ -2,5 +2,5 @@
 title: What does the fox say
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Litt usikker hva gjør en index. (Dette er index2)
+Trenger man to indexer altså?
