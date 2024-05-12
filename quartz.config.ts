@@ -14,16 +14,16 @@ const config: QuartzConfig = {
     analytics: {
       provider: "plausible",
     },
-    locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
+    locale: "nb-NO",
+    baseUrl: "https://dingfjaer.github.io/what-does-the-fox-say/",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Schibsted Grotesk",
-        body: "Source Sans Pro",
+        header: "Radley",
+        body: "Poppins",
         code: "IBM Plex Mono",
       },
       colors: {
