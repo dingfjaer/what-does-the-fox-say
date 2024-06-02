@@ -1,7 +1,9 @@
 ---
 title: What does the fox say
 ---
-Velkommen til min digital hage! 
+Velkommen til min digital hage! Denne siden gir en oversikt over hva jeg skriver, planlegger å skrive, har skrevet. Den fungerer også som en innholdsfortegnelse for deg å navigere gjennom, siden Quartz ikke har en god løsning på mobilvising, enda. 
+
+==For å komme tilbake til denne siden, klikk på logoen på toppen til venstre. 🦊==
 
 
 > [!NOTE] Begrep
@@ -24,7 +26,12 @@ Velkommen til min digital hage!
 ## 🪻 blomstre, kronologisk
 
 
-## 🌱 frø sådd, kronologisk
+## 🌱 frø sådd, alfabetisk
+
+[[404 pages]]
+[[Apps jeg bruker og betaler]]
+[[For en reise - det å sette opp Quartz med Obsidian!]]
+[[Webutvikling vs. Apputvikling]]
 
 
 ## 💭 frø usådd, uten rekkefølge 
@@ -37,7 +44,7 @@ Velkommen til min digital hage!
 - [ ] hvordan jeg bruker ChatGPT
 - [ ] dingser jeg bruker
 - [ ] hvorfor bare apple ting
-- [ ] apper jeg bruker
+- [x] apper jeg bruker
 - [ ] apper jeg digger
 - [ ] ting som irriterer meg
 - [ ] bøker jeg leser
@@ -49,9 +56,7 @@ Velkommen til min digital hage!
 - [ ] dokumentering av læring av Frontend
 - [ ] dokumentering av læring av designsystem
 - [ ] kinesiske (tradisjonelle) farger
-- [ ] failure resume [blog/content/posts/a-failure-resume/index.md at master · jackyzha0/blog](https://github.com/jackyzha0/blog/blob/master/content/posts/a-failure-resume/index.md)
-
-
+- [ ] [failure resume](https://github.com/jackyzha0/blog/blob/master/content/posts/a-failure-resume/index.md)
 # arter
 
 - språk
@@ -70,7 +75,7 @@ Velkommen til min digital hage!
 
 
 
-> [!NOTE] 
+> [!NOTE TO SELF] 
 > Arbeidsflyt:
 > Skriv/rediger alltid direkte i Obsidian. 
 > Publisere i VS Code, via iCloud Mappe på Macbook Pro (Hva sier reven.)
