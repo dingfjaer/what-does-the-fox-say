@@ -33,8 +33,8 @@ Velkommen til min digital hage!
 - [ ] hvordan jeg startet reisen av Quartz og Obsidian
 - [ ] hvordan jeg bruker ChatGPT
 - [ ] hobby
-- livet
-- hvordan jeg bruker ChatGPT
+- [ ] livet
+- [ ] hvordan jeg bruker ChatGPT
 - [ ] dingser jeg bruker
 - [ ] hvorfor bare apple ting
 - [ ] apper jeg bruker
@@ -70,12 +70,15 @@ Velkommen til min digital hage!
 
 
 
+> [!NOTE] 
+> Arbeidsflyt:
+> Skriv/rediger alltid direkte i Obsidian. 
+> Publisere i VS Code, via iCloud Mappe på Macbook Pro (Hva sier reven.)
 
 
->[!Note]
-Arbeidsflyt:
-Skriv/rediger alltid direkte i Obsidian. 
-Publisere i VS Code, via iCloud Mappe på Macbook Pro (Hva sier reven.)
+
+
+
 
 
 
