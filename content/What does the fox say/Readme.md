@@ -1,10 +1,9 @@
 ---
-title: Readme Test
+title: Readme - hvor skal denne ligge
 draft: false
 tags:
-  - example-tag
 ---
 
- 
+ Denne viser hvor?
 
 

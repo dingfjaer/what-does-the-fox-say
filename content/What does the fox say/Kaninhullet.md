@@ -1,5 +1,5 @@
 ---
-title: "{{title}}"
+title: Kaninhullet
 draft: false
 tags:
 ---
