@@ -17,5 +17,9 @@ Her kommer noen ord etter litt research:
 iCloud
 ![[404 - iCloud.png]]
 
-Figma
+Figma 
+1 bilde fra images_published
+![[404 - figma.png]]
+
+
 ![[404 - figma.png]]
