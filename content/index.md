@@ -1,7 +1,7 @@
 ---
 title: What does the fox say
 ---
-Velkommen til min digital hage! Denne siden gir en oversikt over hva jeg skriver, planlegger å skrive, har skrevet. Den fungerer også som en innholdsfortegnelse for deg å navigere gjennom, siden Quartz ikke har en god løsning på mobilvising, enda. 
+Velkommen til min digital hage! Denne siden gir deg en oversikt over hva jeg skriver, planlegger å skrive, har skrevet. Den fungerer også som en innholdsfortegnelse for deg å navigere gjennom, siden Quartz ikke har en god løsning på mobilvising, enda. 
 
 ==For å komme tilbake til denne siden, klikk på logoen på toppen til venstre. 🦊==
 
@@ -29,8 +29,11 @@ Velkommen til min digital hage! Denne siden gir en oversikt over hva jeg skriver
 ## 🌱 frø sådd, alfabetisk
 
 [[404 pages]]
+
 [[Apps jeg bruker og betaler]]
+
 [[For en reise - det å sette opp Quartz med Obsidian!]]
+
 [[Webutvikling vs. Apputvikling]]
 
 
