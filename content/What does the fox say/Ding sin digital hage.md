@@ -33,6 +33,9 @@ tags:
 - [ ] hvorfor jeg skriver
 - [ ] hvordan jeg startet reisen av Quartz og Obsidian
 - [ ] hvordan jeg bruker ChatGPT
+- [ ] hobby
+- livet
+- hvordan jeg bruker ChatGPT
 - [ ] dingser jeg bruker
 - [ ] hvorfor bare apple ting
 - [ ] apper jeg bruker
@@ -50,7 +53,7 @@ tags:
 - [ ] failure resume [blog/content/posts/a-failure-resume/index.md at master · jackyzha0/blog](https://github.com/jackyzha0/blog/blob/master/content/posts/a-failure-resume/index.md)
 
 
-## 👨🏻‍🌾 arter
+# arter
 
 - språk
 - design
