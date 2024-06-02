@@ -1,6 +1,6 @@
 ---
 title: For en reise - det å sette opp Quartz med Obsidian!
-draft: true
+draft: false
 tags:
   - Obsidian
 ---

@@ -7,10 +7,15 @@ tags:
 
 > [!NOTE] Begrep
 > 🍎 frukt: publisert i andre plattformer, f.ek. Medium
+> 
 > 🪻 blomstre: (relativt) ferdig artikkel, polert
+> 
 > 🌱 frø sådd: løs tanke, uferdig 
+> 
 > 💭 frø usådd: ideer, planlagt
+> 
 > 👨🏻‍🌾 arter: tema, kategori, tags
+> 
 
 
 
