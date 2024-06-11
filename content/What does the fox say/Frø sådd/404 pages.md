@@ -18,8 +18,6 @@ iCloud
 ![[404 - iCloud.png]]
 
 Figma 
-1 bilde fra images_published
 ![[404 - figma.png]]
-
-
-![[404 - figma.png]]
+Fiken
+![[404 - fiken.png]]
