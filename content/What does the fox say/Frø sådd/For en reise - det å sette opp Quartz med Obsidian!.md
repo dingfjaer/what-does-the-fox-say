@@ -27,7 +27,7 @@ Neida, det handler vel egentlig om å ha et samlede sted for alle tankene og ide
 
 Men nå når jeg har funnet konseptet "digital hage", følte jeg at jeg kunne endelig lande med én skrive-app, som vil fungere som min "==second brain==", og min egen "single source of truth" (enn så lenge). Og jeg har en tro på at Obsidian kan være min trygg havn, forhåpentligvis i noen år. Spesielt når det er så enkelt å publiseres på internett, noe som gjør at det samles kun ét sted, og ganske tilgjengelig, i hvert fall lett å finne igjen.  
 
-## Er det viktig å kunne publisere på internett? 
+## Hvorfor er det viktig å kunne publisere på internett
 
 Å øve på å skrive. Å skrive bedre. Å skrive på norsk. 
 En showcase av min faglig interesse; å vise frem hvem jeg er. Ikke bare for å finne (ny) jobb, men for å dokumentere min egen læring.
