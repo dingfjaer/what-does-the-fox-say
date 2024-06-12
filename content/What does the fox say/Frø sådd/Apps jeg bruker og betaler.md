@@ -60,7 +60,15 @@ Raindrop
 
 
 
-## Apper jeg synes er bra designet
+## Favoritter
+
+**Headspace**
+
+
+
+
+
+## God design 
 
 **Norsk Tipping**:
 Haptics
@@ -68,4 +76,3 @@ Visuelt
 Lett å navigere
 (noe med psykologi)
 
-Headspace
