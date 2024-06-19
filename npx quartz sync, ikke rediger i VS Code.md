@@ -9,4 +9,8 @@ npx quartz sync`
 
 i VS Code, velg og åpne "quartz"-mappe. 
 
+Ikke redigere direkte i Code, da kan det bli duplikat. Men dette kan også skyldes på Quartz Update. Må observere til neste gang.
+
+
+
 
