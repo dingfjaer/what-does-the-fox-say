@@ -12,6 +12,6 @@ og publisere deretter!
 
 Nå kan jeg velge å skrive i Bear/Obsidian først, også copy paste her via github app!
 
-wuhu! 
+wuhu! Dette er litt gøy, er ikke det?
 
 
